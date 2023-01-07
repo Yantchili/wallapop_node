@@ -1,5 +1,7 @@
 # NodeApp
-![Preview gif1 gif](https://user-images.githubusercontent.com/112888040/211122732-e836d8c4-872a-4e60-bc07-f87464d00962.gif)
+
+
+https://user-images.githubusercontent.com/112888040/211172172-5181d31f-4e81-40a9-ac8b-b14b50152194.mp4
 
 Deploy:
 
