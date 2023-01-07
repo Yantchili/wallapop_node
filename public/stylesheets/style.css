@@ -1,0 +1,49 @@
+.btn-primary {
+  background-color: #13C1AC !important;
+  border: #13C1AC;
+
+}
+
+.btn-outline-primary:hover {
+  background-color: white;
+}
+
+.btn-outline-primary {
+  border-color: #13C1AC !important;
+  color: #13C1AC !important;
+  ;
+}
+
+
+
+svg:hover {
+  color: #13C1AC !important;
+  transform: scale(1.1) !important;
+
+}
+
+svg {
+  color: black !important;
+}
+
+#gallery img:hover {
+  transform: scale(1.05) !important;
+  background-color: transparent !important;
+}
+
+@media (max-width: 767px) {
+
+  .navbar button {
+    display: none !important;
+    ;
+  }
+
+}
+
+@media (max-width: 576px) {
+
+  body {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
