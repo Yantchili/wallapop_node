@@ -49,4 +49,4 @@ npm run dev
 | `http://localhost:3000/all_roduct`                          |All products                  |
 | `http://localhost:3000/search_result?nombre=ipad`                          |Products with names beggining with "ipad"               |
 | `http://localhost:3000/new`                          |Create a new prdoducts                |
-| `http://localhost:3000/63b8b96de4260fe0e15e69a0`                          |Deatail info of certain product               |
+| `http://localhost:3000/63b8b96de4260fe0e15e69a0`                          |Detail info of certain product               |
