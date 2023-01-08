@@ -1,5 +1,5 @@
 # Nodepop
-
+A second hand Marketplace platform
 
 https://user-images.githubusercontent.com/112888040/211172172-5181d31f-4e81-40a9-ac8b-b14b50152194.mp4
 
